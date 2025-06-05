@@ -2,12 +2,12 @@ Hi, I’m Abhinav Singh — a final year Computer Science undergrad at IIIT Ranc
 
 
 ## My toolbox:-
-Languages: C, C++, Python, JavaScript, TypeScript, SQL,
+Languages: C, C++, Python, JavaScript, TypeScript, SQL  
 Developer Tools & Technologies: Git, GitHub, Postman, Docker, AI Integration, Node.js, Express.js, React, Redux,
-Next.js, Django, Celery, Prisma, Tailwind CSS, Redis, WebRTC, RESTful API,Web Sockets, Linux
-Database: MongoDB, MySQL, PostgreSQL
+Next.js, Django, Celery, Prisma, Tailwind CSS, Redis, WebRTC, RESTful API,Web Sockets, Linux  
+Database: MongoDB, MySQL, PostgreSQL  
 Coursework: Data Structures & Algorithms, Computer Networks, Database Management Systems, Software Engineering,
-Object-Oriented Programming
+Object-Oriented Programming  
 
 ## 📈 GitHub Stats
 
